@@ -42,7 +42,7 @@ python tools/test.py [CONFIG FILE] [MODEL DIR]
 
 ## License
 
-This project is released under the Apache 2.0 License.
+This project is released under the Apache 2.0 License. For details see the `LICENSE` file.
 
 ## Acknowledgement
 This library is constructed based on the following repos:

@@ -45,5 +45,5 @@ python tools/test.py [CONFIG FILE] [MODEL DIR]
 This project is released under the Apache 2.0 License. For details see the `LICENSE` file.
 
 ## Acknowledgement
-This library is constructed based on the following repos:
+This library is constructed based on the following repo:
 - MMsegmentation https://github.com/open-mmlab/mmsegmentation

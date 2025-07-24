@@ -1,6 +1,6 @@
-# SPANet: Road Defect Detection via Scale- and Patch-Aware Attention
+# SPANet
 
-Official implementation of SPANet: A dual-attention network for robust road defect detection (cracks & potholes) built upon MMSegmentation.
+Official implementation of SPANet: A deep learning based network for robust road defect detection (cracks & potholes) built upon MMSegmentation.
 
 ## Key Features
 - 🎯 **Attention Mechanism**: 

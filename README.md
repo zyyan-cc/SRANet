@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ## Quick Start
 
 1. Dataset Preparation
+
 Organize data in MMSeg format
 
 2. Train
@@ -39,7 +40,8 @@ python tools/train.py [CONFIG FILE]
 python tools/test.py [CONFIG FILE] [MODEL DIR]
 ```
 
-License
+## License
+
 This project is released under the Apache 2.0 License.
 
 ## Acknowledgement

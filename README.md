@@ -1,9 +1,5 @@
 # SPANet: Road Defect Detection via Scale- and Patch-Aware Attention
 
-[![Pytorch](https://img.shields.io/badge/PyTorch-1.9+-EE4C2C.svg)](https://pytorch.org/)
-[![MMSegmentation](https://img.shields.io/badge/MMSegmentation-1.x-007EC6.svg)](https://github.com/open-mmlab/mmsegmentation)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-
 Official implementation of SPANet: A dual-attention network for robust road defect detection (cracks & potholes) built upon MMSegmentation.
 
 ## Key Features
@@ -24,4 +20,28 @@ mim install mmsegmentation
 # Step 2: Clone SPANet
 git clone https://github.com/yourusername/SPANet.git
 cd SPANet
+
+# 3. Install dependencies
+pip install -r requirements.txt
 ```
+
+## Quick Start
+
+1. Dataset Preparation
+Organize data in MMSeg format
+
+2. Train
+```
+python tools/train.py [CONFIG FILE]
+```
+3. Test
+```
+python tools/test.py [CONFIG FILE] [MODEL DIR]
+```
+
+License
+This project is released under the Apache 2.0 License.
+
+## Acknowledgement
+This library is constructed based on the following repos:
+- MMsegmentation https://github.com/open-mmlab/mmsegmentation

@@ -20,8 +20,8 @@ mim install mmengine mmcv
 mim install mmsegmentation
 
 # Step 2: Clone SPANet
-git clone https://github.com/yourusername/SPANet.git
-cd SPANet
+git clone https://github.com/yourusername/SRANet.git
+cd SRANet
 
 # 3. Install dependencies
 pip install -r requirements.txt

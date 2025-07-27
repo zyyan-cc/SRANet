@@ -7,7 +7,7 @@ Code will be made available after the paper is published.
 ## Key Features
 - 🎯 **Attention Mechanism**: 
   - Scale-aware attention for multi-granularity feature fusion
-  - Patch-aware attention to suppress noise in skip connections
+  - Region-aware attention to suppress noise in skip connections
 - 🚀 **SOTA Performance**: 1.93% higher Dice score than prior methods
 - 🏗 **MMSeg Compatible**: Seamless integration with OpenMMLab ecosystem
 - 🌍 **Multi-Scenario Robustness**: Tested on multiple scenarios
